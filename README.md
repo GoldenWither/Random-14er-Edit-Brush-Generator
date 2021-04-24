@@ -3,7 +3,7 @@ A program that generates random brushes for 14erEdit, under many user-chosen par
 
 ### The Basics
 #### Running the program
-To run, *make sure python is installed*. Double click "main.py" and use the gui to generate some fabulous brushes.
+To run, **make sure python is installed**. Double click "main.py" and use the gui to generate some fabulous brushes.
 
 #### Exporting brushes
 Clicking "Output to File" places all the brushes currently in the output box into a new "Brush Output.txt" file, in the same directory main.py was ran in.
